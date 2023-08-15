@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-char arr[9] = "_putchar";
+	char arr[9] = "_putchar";
 
 	int i;
 
@@ -17,4 +17,4 @@ char arr[9] = "_putchar";
 	}
 	_putchar(10);
 	return (0);
-} 
+}
