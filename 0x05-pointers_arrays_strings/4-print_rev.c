@@ -24,4 +24,3 @@ void print_rev(char *m)
 
 	_putchar('\n');
 }
-
